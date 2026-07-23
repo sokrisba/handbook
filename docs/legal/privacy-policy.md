@@ -13,7 +13,7 @@ Welcome to the [Ultralytics](https://www.ultralytics.com/) [Handbook](https://ha
 
 - **Mission and Values:** Learn what drives Ultralytics forward and how we aim to make a lasting impact.
 - **Operational Workflows:** Discover how we work internally, including development processes, team collaboration, and continuous improvement.
-- **Contribution Guidelines:** Get involved! Detailed instructions on how to contribute to our projects and be part of the Ultralytics community.
+- **Contribution Guidelines:** Get involved! Detailed instructions on how to contribute to our projects and be part of the Ultralytics community.  testing the PR process w/ Ed
 
 ## Stay Informed 🚧
 
